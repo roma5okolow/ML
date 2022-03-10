@@ -1,0 +1,12 @@
+LOC643837       False
+LOC100130417     True
+SAMD11          False
+NOC2L           False
+KLHL17           True
+                ...  
+DDX3Y           False
+CD24            False
+CYorf15B        False
+KDM5D           False
+EIF1AY          False
+Name: norm-early, Length: 15748, dtype: bool
