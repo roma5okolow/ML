@@ -1,2 +1,3 @@
 # ML
-Здесь будут публиковаться все задания с курсов, котоыре я прохожу
+
+## This repository is outdated. Visit [new](https://github.com/roma5okolow/machine-learning)
